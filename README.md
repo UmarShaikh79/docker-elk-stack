@@ -17,7 +17,7 @@ Ensure you have the following installed:
 
 Clone the repository:
 ```sh
-git clone https://github.com/your-repo/elk-docker-setup.git
+git clone https://github.com/UmarShaikh79/docker-elk-stack.git
 cd elk-docker-setup
 ```
 
